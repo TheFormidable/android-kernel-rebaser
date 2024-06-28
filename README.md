@@ -8,5 +8,5 @@ $ ./kernel-rebase.sh "<link to oem kernel source (git)>" "<ack-branch>"
 
 ### Example:
 ```bash
-./kernel-rebase.sh "https://github.com/MiCode/Xiaomi_Kernel_OpenSource.git -b dandelion-q-oss" "android-4.9-q"
+./kernel-rebase.sh "https://github.com/MiCode/Xiaomi_Kernel_OpenSource.git -b bsp-duchamp-u-oss" "android-6.1-q"
 ```
